@@ -1,3 +1,4 @@
+
 package JavaProject;
 
 public class Rectangle {
